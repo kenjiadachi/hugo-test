@@ -2,6 +2,8 @@ title = "sample"
 baseURL = "https://example.com"
 languageCode = "en-us"
 theme = "gohugo-theme-ananke"
+publishDir = "docs"
+canonifyurls = true
 # themesDir = "../.."
 
 MetaDataFormat = "yaml"
