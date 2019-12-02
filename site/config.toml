@@ -1,5 +1,5 @@
 title = "sample"
-baseURL = "https://example.com"
+baseURL = "https://kenjiadachi.github.io/hugo-test"
 languageCode = "en-us"
 theme = "gohugo-theme-ananke"
 publishDir = "docs"
