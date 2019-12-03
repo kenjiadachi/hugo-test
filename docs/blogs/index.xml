@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts0s on sample</title>
-    <link>https://kenjiadachi.github.io/hugo-test/posts0/</link>
-    <description>Recent content in Posts0s on sample</description>
+    <title>Blogs on sample</title>
+    <link>https://kenjiadachi.github.io/hugo-test/blogs/</link>
+    <description>Recent content in Blogs on sample</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 20 Nov 2019 16:48:41 +0000</lastBuildDate>
     
-	<atom:link href="https://kenjiadachi.github.io/hugo-test/posts0/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kenjiadachi.github.io/hugo-test/blogs/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Page2</title>
-      <link>https://kenjiadachi.github.io/hugo-test/posts0/page2/</link>
+      <link>https://kenjiadachi.github.io/hugo-test/blogs/page2/</link>
       <pubDate>Wed, 20 Nov 2019 16:48:41 +0000</pubDate>
       
-      <guid>https://kenjiadachi.github.io/hugo-test/posts0/page2/</guid>
+      <guid>https://kenjiadachi.github.io/hugo-test/blogs/page2/</guid>
       <description> testとうこう これはがいようです
 てすととうこうだよー </description>
     </item>
     
     <item>
       <title>Page20</title>
-      <link>https://kenjiadachi.github.io/hugo-test/posts0/page20/</link>
+      <link>https://kenjiadachi.github.io/hugo-test/blogs/%E3%81%84%E3%81%88%E3%83%BC%E3%81%84/</link>
       <pubDate>Wed, 20 Nov 2019 16:48:41 +0000</pubDate>
       
-      <guid>https://kenjiadachi.github.io/hugo-test/posts0/page20/</guid>
+      <guid>https://kenjiadachi.github.io/hugo-test/blogs/%E3%81%84%E3%81%88%E3%83%BC%E3%81%84/</guid>
       <description> testとうこう これはがいようです
 てすととうこうだよー </description>
     </item>

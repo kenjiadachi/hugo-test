@@ -3,6 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://kenjiadachi.github.io/hugo-test/blogs/</loc>
+    <lastmod>2019-11-20T16:48:41+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kenjiadachi.github.io/hugo-test/blogs/page2/</loc>
+    <lastmod>2019-11-20T16:48:41+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://kenjiadachi.github.io/hugo-test/posts/page2/</loc>
     <lastmod>2019-11-20T16:48:41+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -10,7 +23,7 @@
   </url>
   
   <url>
-    <loc>https://kenjiadachi.github.io/hugo-test/posts0/page2/</loc>
+    <loc>https://kenjiadachi.github.io/hugo-test/blogs/%E3%81%84%E3%81%88%E3%83%BC%E3%81%84/</loc>
     <lastmod>2019-11-20T16:48:41+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -24,20 +37,7 @@
   </url>
   
   <url>
-    <loc>https://kenjiadachi.github.io/hugo-test/posts0/page20/</loc>
-    <lastmod>2019-11-20T16:48:41+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://kenjiadachi.github.io/hugo-test/posts/</loc>
-    <lastmod>2019-11-20T16:48:41+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://kenjiadachi.github.io/hugo-test/posts0/</loc>
     <lastmod>2019-11-20T16:48:41+00:00</lastmod>
     <priority>0</priority>
   </url>

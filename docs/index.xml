@@ -13,6 +13,16 @@
     
     <item>
       <title>Page2</title>
+      <link>https://kenjiadachi.github.io/hugo-test/blogs/page2/</link>
+      <pubDate>Wed, 20 Nov 2019 16:48:41 +0000</pubDate>
+      
+      <guid>https://kenjiadachi.github.io/hugo-test/blogs/page2/</guid>
+      <description> testとうこう これはがいようです
+てすととうこうだよー </description>
+    </item>
+    
+    <item>
+      <title>Page2</title>
       <link>https://kenjiadachi.github.io/hugo-test/posts/page2/</link>
       <pubDate>Wed, 20 Nov 2019 16:48:41 +0000</pubDate>
       
@@ -22,11 +32,11 @@
     </item>
     
     <item>
-      <title>Page2</title>
-      <link>https://kenjiadachi.github.io/hugo-test/posts0/page2/</link>
+      <title>Page20</title>
+      <link>https://kenjiadachi.github.io/hugo-test/blogs/%E3%81%84%E3%81%88%E3%83%BC%E3%81%84/</link>
       <pubDate>Wed, 20 Nov 2019 16:48:41 +0000</pubDate>
       
-      <guid>https://kenjiadachi.github.io/hugo-test/posts0/page2/</guid>
+      <guid>https://kenjiadachi.github.io/hugo-test/blogs/%E3%81%84%E3%81%88%E3%83%BC%E3%81%84/</guid>
       <description> testとうこう これはがいようです
 てすととうこうだよー </description>
     </item>
@@ -37,16 +47,6 @@
       <pubDate>Wed, 20 Nov 2019 16:48:41 +0000</pubDate>
       
       <guid>https://kenjiadachi.github.io/hugo-test/posts/page20/</guid>
-      <description> testとうこう これはがいようです
-てすととうこうだよー </description>
-    </item>
-    
-    <item>
-      <title>Page20</title>
-      <link>https://kenjiadachi.github.io/hugo-test/posts0/page20/</link>
-      <pubDate>Wed, 20 Nov 2019 16:48:41 +0000</pubDate>
-      
-      <guid>https://kenjiadachi.github.io/hugo-test/posts0/page20/</guid>
       <description> testとうこう これはがいようです
 てすととうこうだよー </description>
     </item>
