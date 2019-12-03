@@ -1,5 +1,5 @@
 ---
-title: "Page2"
+title: "こんなことがあったよ"
 date: 2019-11-20T16:48:41Z
 draft: false
 ---
